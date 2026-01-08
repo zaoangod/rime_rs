@@ -1,0 +1,14 @@
+# 格式化 Rust 样式指南的版本
+style_edition = "2024"
+# 行宽限制
+max_width = 999
+# 缩进宽度
+tab_spaces = 4
+# 是否使用制表符
+hard_tabs = false
+# 导入块内的项目布局
+imports_layout = "HorizontalVertical"
+# 最大空行数量
+blank_lines_upper_bound = 1
+# 注释是否换行
+wrap_comments = false

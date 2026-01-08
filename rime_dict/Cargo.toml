@@ -1,0 +1,11 @@
+[package]
+name = "rime_dict"
+version = "0.1.0"
+edition = "2024"
+license = "BSD-3-Clause"
+
+[dependencies]
+rime_core = { path = "../rime_core" }
+rime_pinyin = { path = "../rime_pinyin" }
+
+

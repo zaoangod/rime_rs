@@ -1,0 +1,10 @@
+[workspace]
+resolver = "3"
+members = [
+    "rime_core",
+    "rime_pinyin",
+    "rime_dict",
+    "rime_cli",
+]
+
+
